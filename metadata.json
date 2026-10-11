@@ -1,0 +1,6 @@
+{
+  "name": "RythuMitra (రైతు మిత్ర) - Farmer's Friend Agritech Marketplace",
+  "description": "Authentic agricultural marketplace with ICAR-certified seeds, fertilizers, crop disease AI scanner, Telugu voice assistant, and farm-gate delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
